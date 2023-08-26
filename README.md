@@ -9,5 +9,5 @@ Youtube Link: https://www.youtube.com/watch?v=R0k_Syp2OGk&lc=UgxRf5bqK-yXv3pZLYF
 This project requires Express.JS installed. It also requires some additional steps to configure HTTPS access.
 
 Two other demonstrations are suggested in order to set up this one. 
-For preparing a local Express.JS project see this video: https://www.youtube.com/watch?v=RRvtMVmiQxY
-For configuring HTTPs for a local network see this video: https://www.youtube.com/watch?v=zwaYgSjA4JY
+- For preparing a local Express.JS project see this video: https://www.youtube.com/watch?v=RRvtMVmiQxY
+- For configuring HTTPs for a local network see this video: https://www.youtube.com/watch?v=zwaYgSjA4JY
